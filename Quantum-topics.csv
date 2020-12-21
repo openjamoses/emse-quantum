@@ -1,0 +1,23 @@
+﻿Topic_Num,Topic_Name,Top 20 Keywords,Total fault-inducing commits
+1,Compiler Optization,"pass, call, local, move, sequence, program, compile, functionality, compilation, configuration, measurement, simulator, statement, process, work, simple, implement, measure, code, logic",2570
+2,I/O and Text Format,"output, case, line, handle, string, call, close, log, parse, long, standard, replace, image, expression, find, produce, show, range, testing, clear",2592
+3,Calibration & Visualization,"error, fix, check, bug, code, argument, unit, plot, channel, empty, pulse, car, merge, schedule, function, condition, convert, comment, embed, base",2391
+4,Program Optimization,"optimization, bit, debug, bug, unit_test, fix, remove, control, phase, benchmark, optimize, device, check, case, coverage, buffer, testing, cleanup, single, comment",2100
+5,Feature Expansion,"implementation, block, base, define, make, introduce, field, current, user, break, provide, part, specific, model, exist, easy, constant, optional, feature, include",2097
+6,Code Refactoring,"add, move, rename, improve, implement, documentation, init, ignore, rotation, remove_unnecessary, functionality, util, refactor, base, constructor, todo, type_hint, definition, copyright, refactore",1627
+7,Data Structures and Operations,"method, list, return, object, result, class, attribute, property, exception, order, set, key, handle, backend, base, replace, dict, status, converter, qobj",1835
+8,Legacy Code & Deprecation,"update, fix, minor_version, warning, remove, minor, comment, sample, miss, move, rename, address, begin, bug, deprecation, namespace, clean, conversion, split, late",2079
+9,Chemical Calculations,"input, calculation, read, energy, regtest, orbital, structure, atom, force, molecule, due, spin, charge, cell, density, restart, scf, core, moment, computation",3127
+10,Memory and Performance Optimization,"datum, print, write, routine, memory, avoid, information, point, gradient, performance, time, common, kernel, large, request, wavefunction, speed, problem, cc_cdfa, additional",2341
+11,Code Integration,"make, change, remove, code, work, clean, commit, interface, copy, separate, branch, header, command, check, internal, simplify, complete, avoid, part, include",1542
+12,Arrays and Matrix Operations,"type, operator, array, index, complex, size, vector, real, pointer, definition, function, due, double, miss, constructor, return, correct, conversion, simple, reference",2474
+13,Gates Decomposition,"default, set, support, matrix, flag, basis, full, reset, solver, initial, driver, decomposition, global, consistent, distribution, direct, setup, view, factor, addition",2344
+14,Configuration Files,"file, create, generate, script, system, level, include, match, folder, generation, load, component, color, setting, seed, directory, multiple, button, step, enable",2382
+15,Configuration Interaction,"number, give, result, multiple, store, element, calculate, previously, thread, procedure, iteration, single, find, large, sign, select, weight, determinant, previous, column",2116
+16,Module Updates,"work, problem, small, module, fix, bug, testing, cleanup, output, start, notebook, model, issue, fit, solve, improvement, clean, stuff, part, filter",1707
+17,Continous Integration,"run, job, time, issue, fail, release, python, commit, support, step, user, window, cache, build, ensure, tag, commit_add, failure, script, part",1602
+18,Circuit Design,"fix, gate, circuit, import, qubit, style, instruction, method, operation, lint, support, display, label, control, deprecate, draw, remove, visualization, op, mergify",1999
+19,Dependency Management,"version, build, package, dependency, install, requirement, path, cmake, source, require, target, instal, compile, project, library, compiler, installation, tool, external, late",2525
+20,Message Passing,"extra, option, message, parallel, grid, info, generator, task, member, ability, group, point, require, couple, distribute, object, basis_set, cdfa, network, share",1663
+21,Parameter Checks and Selection,"parameter, variable, state, issue, correct, order, check, space, correctly, set, save, branch_extra, branch_prerelease, cba, address, implement, unused, scale, properly, apply",2064
+22,Path Integral,"function, compute, integral, term, potential, hamiltonian, derivative, correction, functional, evaluate, gaussian, diagonal, evaluation, storage, convention, contraction, related, contribution, product, calculate",1832
